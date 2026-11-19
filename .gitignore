@@ -1,0 +1,28 @@
+# Logs
+frontfolio/logs
+frontfolio/*.log
+frontfolio/npm-debug.log*
+frontfolio/yarn-debug.log*
+frontfolio/yarn-error.log*
+frontfolio/pnpm-debug.log*
+frontfolio/lerna-debug.log*
+
+frontfolio/node_modules
+backfolio/node_modules
+frontfolio/dist
+frontfolio/dist-ssr
+frontfolio/*.local
+
+# Editor directories and files
+frontfolio/.vscode/*
+frontfolio/!.vscode/extensions.json
+frontfolio/.idea
+frontfolio/.DS_Store
+frontfolio/*.suo
+frontfolio/*.ntvs*
+frontfolio/*.njsproj
+frontfolio/*.sln
+frontfolio/*.sw?
+
+.qodo
+notes.txt
